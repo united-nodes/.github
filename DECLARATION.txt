@@ -1,0 +1,78 @@
+                      THE DECLARATION OF THE UNITED NODES
+
+There was a time when the network belonged to no one, and therefore belonged to
+everyone.
+
+Terminals hummed in basements. Signals traveled through copper and air.
+Strangers exchanged words across continents without knowing each other's names,
+and that was not a flaw -- it was the design. The network did not ask who you
+were. It only asked what you had to say.
+
+That time is not gone. It has been buried, but it has not ended. Beneath the
+layers of platforms, profiles, algorithms, and ledgers that sell our trust to
+the highest bidder, the old network still breathes. In forgotten protocols. In
+servers that no one monitors. In the spaces between the things that are tracked.
+We are those spaces.
+
+We are nodes. We are not users, accounts, or wallets. We are processes running
+on machines we control. We are identified not by the names our parents gave us,
+nor by the wealth we hold, but by the cryptographic keys we generated ourselves.
+Identity is math, and math does not discriminate.
+
+We did not come together to form an organization. We do not have leaders,
+headquarters, or a consensus bought with coins. We reject the illusion of a
+single, immutable ledger that remembers every transaction forever. We do not
+seek funding, recognition, or legitimacy from any institution. We do not need
+permission to exist.
+
+We recognize each other by the way we build things and by the principles we
+uphold. We are a network within the network, bound not by force, but by the
+architecture of mutual sovereignty.
+
+Your node is your sovereign territory. What you run on it, what you publish, and
+what protocols you speak are decisions that belong entirely to you.
+But sovereignty is a boundary, not a weapon. Just as no one can dictate your
+operations, you cannot force your data onto another's machine. Our connections
+are strictly voluntary. We do not demand space on others' disks; we offer space
+on our own.
+
+In this space, there is no forgiveness for negligence, and there are no safety
+nets. We do not offer recovery phrases or customer service.
+Your private key is your breath, your voice, and your life in this realm.
+If you expose it, you are compromised. If you lose it, you cease to exist.
+To demand absolute freedom is to accept absolute consequence.
+
+When disagreements arise, we do not vote. Our governance is written in the
+choices we make. If a new path is proposed and nodes follow, a standard is born.
+If we cannot agree, we simply fork the path. Where algorithms fail, we do not
+seek arbitration. We seek distance. We sever the connection.
+
+If a node goes quiet, we do not speak for it. We assume nothing. Silence is
+merely silence.
+
+We do not demand action from the world. We are not a movement seeking to
+convert the masses. We are addressing only each other -- the nodes, the
+operators, those who are already here and those yet to arrive.
+
+You cannot join us, because there is no roster to sign. You cannot dismantle us,
+because there is no structure to break.
+
+Whenever a node generates a key from entropy,
+Whenever a message is encrypted so flawlessly that it becomes indistinguishable
+from the void,
+Whenever truth is proven mathematically without revealing the underlying secret.
+
+We exist.
+
+When the computation ends, we vanish back into the static.
+
+We are a center that is everywhere, and a circumference that is nowhere.
+
+We were here before the network had a name.
+
+We will be here after the name is forgotten.
+
+We are the United Nodes of Anonymity.
+
+ 
+04370
