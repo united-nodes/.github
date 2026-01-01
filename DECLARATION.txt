@@ -1,0 +1,132 @@
+                      THE DECLARATION OF THE UNITED NODES
+
+There was a stretch of years when the network had no owner, and having no
+owner was more or less the point. You showed up with a machine and a line
+and you were on it.
+
+People kept terminals going in basements. Packets moved through copper
+and through the air without much ceremony. You could write to someone on
+another continent, never learn their name, and treat the whole thing as
+normal, because it was. The software at the other end had no field for
+who you were and simply waited for the next line of text.
+
+That period is still under there, paved over by the platforms and the
+profile pages, and by feeds that have already chosen the next thing
+you'll look at. The older network is still down there running, in
+protocols that dropped out of use, on boxes nobody logs into, in the
+parts of a session that never get written to disk. Those leftover spaces
+are the ones we occupy.
+
+Naming the machines changed the tone. The names attached themselves to
+the firms that held title, not really to the hardware. Terminals came
+out of the rooms and went into pockets as phones, built around the
+vendor's priorities, reporting a location every few seconds to recipients
+who were never on any list we made. What used to connect two peers got
+swapped for a service that stands between a customer and a warehouse,
+and after a while the person at the keyboard was the goods.
+
+They made it easy, so people went along. A sentence typed into a box
+would get stored and later sold back to the same pair of hands, usually
+at a markup. Hardware we paid for out of pocket now places calls to
+vendors we cannot really decline, across pipes we cannot look inside,
+carrying contents we are not allowed to open.
+
+Gardens went up on the commercial side. On the state side it was walls,
+sometimes using the same fiber. Mail gets read while it travels, and
+speech gets sized up before it is out of the mouth. There are countries
+where a search query has been enough to produce a knock, and a smaller
+set where they skipped the human and automated the visit. None of that
+stack is something we built, and we are not in line to inherit it when
+the present owners get tired.
+
+A thing you cannot block in public can still be drained of value. If the
+contents of a packet cannot be read, the postman has nothing worth
+selling. Keys that never sit on a server leave a court with nothing
+useful to demand. Watching will continue, so emptying out what there is
+to watch is the work we actually know how to do.
+
+Cryptography sits at the point where we actually meet the network. We
+stopped treating it like an optional switch years ago. Once you are past
+that layer, claiming ownership of anything on the far side doesn't mean
+much. This side of it is built around keeping our hands on our own keys.
+Anyone who wants to trust the authors is free to, but that was never the
+mechanism. The math is published, so sit down with it if you like.
+
+Running a binary that came off someone else's build machine means taking
+their word for the result. Same general problem with a library whose
+source we never opened: you are holding out a hand and hoping nothing
+lands in it. So the tools we actually depend on tend to be tools we
+wrote. Other authors are often perfectly good. The trouble is simply that
+code from outside is code we only see into so far. An extra library is a
+debt. The person on the other end of it might not be around next year,
+and they might already have been pushed toward someone else's priorities.
+
+What comes out of this tree isn't anyone's property. Calling that
+generosity misses the reason. Property is the handle you use to reel
+software back in. It is also how a tree gets licensed away from the
+people running it, and how a silent patch lands for some party the
+author would not recognize. With no owner there is no one who can recall
+it and no one who can put it up for sale.
+
+We still remember a curve whose constants were never derived in public,
+and later a standard that vanished without comment, years after people
+had already been burned by it. A number that arrives from above with no
+trail behind it usually works out nicely for whoever chose it. Around
+here the tree is readable, and anyone willing to sit with it can rebuild
+from source. That is as far as the promise goes.
+
+We call ourselves nodes, which is a different category from a user
+account or a wallet. What we mean is a process on hardware we control.
+Whatever name you were given as a child stays outside, same as whatever
+you have in the bank. A node is known by a key it generated. Math takes
+it from there, and math has never been impressed by biographies.
+
+This was never an attempt to form an organization. Leadership and a
+headquarters never assembled, and nobody purchased a consensus with a
+pile of coins. The picture of one giant ledger that remembers every
+transfer forever and then calls the result freedom never convinced us.
+There is no treasury to fill and no office that can stamp us into being.
+
+Other people looked at the same damage and went a different way, a lot
+of them by multiplying hosts and opening the gardens so the walls would
+at least be smaller. That project is theirs and it can sit next to ours.
+
+Even a well-run server has someone at the top of it. Good manners on the
+part of that person do not change the fact that they can show you the
+door. And being copied onto twenty machines has not, as far as we can
+tell, ever added up to being unseen. Getting out of view after that
+almost never happens on a timeline that helps.
+
+So we took another trade. Trying to spread the light around was never
+the idea we were working from, so we walked out of the lit area. Once
+you are in the dark, packets stop being distinguishable from each other,
+and so do nodes, which means reputation has nothing to stick to and
+there is no profile worth keeping current. If telling us apart fails,
+that is the equality we had in mind.
+
+We pick each other out by the code, and by what that code actually
+refuses to let happen. The thing that results is a network sitting
+inside the ordinary one, held together mostly by each node running
+under its own authority.
+
+A disagreement does not go to a vote. What we run is whatever machines
+choose to run. Someone floats a path, nodes pick it up, and after enough
+of that people start calling it a standard. A split that stays open
+usually turns into a fork. Algorithms dead-end sometimes, and the
+response we know is to add distance and drop the session.
+
+When a node goes quiet, the rest of us leave it quiet. Filling that gap
+with a spokesman or a theory has never been part of how this works. The
+silence can sit there unread.
+
+Nothing here is a demand on the outside world. Campaigns and membership
+drives belong to someone else. The people this is for are already
+nearby: operators, other nodes, whoever is on this side of the wire now,
+and whoever shows up in a year or ten.
+
+The network still didn't have a name the first time we were on it, and
+whatever they call it next, we expect the same machines to answer.
+
+We are the United Nodes of Anonymity.
+  
+55490

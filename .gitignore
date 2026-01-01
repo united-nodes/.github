@@ -1,0 +1,8 @@
+*.o
+*.s
+*.so
+*.gz
+*.xz
+*.py
+*tmp*
+*cache*
