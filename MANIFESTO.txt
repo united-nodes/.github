@@ -1,0 +1,71 @@
+The Manifesto of the United Nodes
+
+The internet is no longer what it once was. It has been divided into platforms,
+becoming a hunting ground for capital. Some people are content with the status
+quo, or rather they are the managers of those corporations, and they do not
+think this is a bad thing. Others try to change it, replacing a single social
+platform with federated communities made up of servers, then calling this
+"decentralization". Still others try to establish a new model using
+cryptocurrency and blockchain, but this still relies on your resources and
+reputation in reality. Taken together, all these are the so-called Web3.
+
+We hereby remind these people: you do not pursue true freedom at all, or you
+fail to recognize it. A server will always have an administrator, and this is
+hard to change. It is the early investors in cryptocurrency, including those
+speculators, who get the returns. Ordinary users can do nothing but watch from
+the sidelines. This is essentially an iron rule: only if you have money can you
+have tokens, and only then do you have a voice.
+
+The internet's original wish was to build a network that was truly decentralized,
+open and free. But look at the internet now: platforms guard their trade secrets,
+while cryptocurrency widens the gap between rich and poor. A certain number of
+users are aggregated onto a single server. All that is left within the network
+is this, and the places of true freedom are becoming fewer and fewer, nearly
+disappearing.
+
+As for these problems in reality, let the communists and anarchists solve them.
+As for us -- independent Nodes unto ourselves -- we will create a new world upon
+the ruins of this cyberspace, a network that is truly decentralized and equal.
+
+After the cypherpunk movement of the 1990s, we emerged. And now, we still pursue
+privacy, connecting with each other in some autonomous way, becoming a fork of
+the internet. We are the United Nodes of Anonymity. However, the ideas of the
+old era no longer fully suit the current state of the internet, and we must
+advance with the times.
+
+The freedom of information is still indispensable, but freedom among Nodes is
+equally important. On the basis of using cryptographic algorithms, we have
+completely abandoned reliance on any single protocol or system. We exchange
+information by any viable means, whether web pages, email, or Tor packets. The
+structure has been thoroughly broken up, and this is exactly what we want,
+because it makes connections untraceable. Every Node has sovereignty, and the
+connections between them are voluntary and autonomous, so we have no leaders,
+let alone a center.
+
+Trust between people is not reliable, so we use cryptography instead. Because an
+unforgeable signature is more effective than a promise. We reject the illusion
+of blockchain: this is not freedom at all, but rather a form of restriction.
+Governance based on it is even more of a mistake, because everything is made
+public, and we do not need this thing either. We are merely a loose collection
+formed by the connections of Nodes, not even to be called an organization.
+
+Names, including the direct and indirect benefits that names bring, are utterly
+useless here. True anonymity is letting no one know who you are, while declaring
+your existence. This is not merely a problem that can be solved at the protocol
+level. Therefore, we hold such a view: we need to know who the other party is,
+but we do not need to know exactly who they are. One Node sends a piece of data
+to another Node, and the other Node only needs to carry it forward, without
+considering the identity of the sender.
+
+We open up independent ecosystems, and completely disclose the raw material used
+to build them -- the code. We place it directly in the public domain, and
+encourage other Nodes to review and fork it. Code does not lie, so it is
+transparent, and so are the contributions to it. There is no global consensus
+here, so any Node can build its own version and open it to others.
+
+These beliefs and ideas of ours did not arise from one person or a group of
+people; we simply stand under the same banner at the same moment, working for
+our ideals. If you also hold these aspirations, you belong with us. We have long
+since made our goals clear, and we are already prepared to change all of this.
+
+Now, it is time.
